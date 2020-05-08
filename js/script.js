@@ -6,7 +6,7 @@ $(document).ready(function(){
     })
     //Gestion de la navigation sidebar
      //initale page
-     $('.app_container').load('menu/profile.html');
+     $('.app_container').load('menu/message.html');
     
      //gérer les menus on clicks
      $("#main a").click(function(){
